@@ -1,0 +1,8 @@
+C:\Users\gulca\OneDrive\Masaüstü\SayiToplaOrtalamaÖdev\bin\Debug\SayiToplaOrtalamaÖdev.exe.config
+C:\Users\gulca\OneDrive\Masaüstü\SayiToplaOrtalamaÖdev\bin\Debug\SayiToplaOrtalamaÖdev.exe
+C:\Users\gulca\OneDrive\Masaüstü\SayiToplaOrtalamaÖdev\bin\Debug\SayiToplaOrtalamaÖdev.pdb
+C:\Users\gulca\OneDrive\Masaüstü\SayiToplaOrtalamaÖdev\obj\Debug\SayiToplaOrtalamaÖdev.csproj.AssemblyReference.cache
+C:\Users\gulca\OneDrive\Masaüstü\SayiToplaOrtalamaÖdev\obj\Debug\SayiToplaOrtalamaÖdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\gulca\OneDrive\Masaüstü\SayiToplaOrtalamaÖdev\obj\Debug\SayiToplaOrtalamaÖdev.csproj.CoreCompileInputs.cache
+C:\Users\gulca\OneDrive\Masaüstü\SayiToplaOrtalamaÖdev\obj\Debug\SayiToplaOrtalamaÖdev.exe
+C:\Users\gulca\OneDrive\Masaüstü\SayiToplaOrtalamaÖdev\obj\Debug\SayiToplaOrtalamaÖdev.pdb
